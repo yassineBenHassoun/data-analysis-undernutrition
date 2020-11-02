@@ -17,15 +17,21 @@ docker-compose up -d
 
 ## URL d'entrer 
 
-```python
+```url
 http://localhost:8888/
 ```
 
 
 ## Mot de passe
 
-```python
+``` pwd
 easy
 ```
 
 
+## Entrer dans le container python afin d'installer des packae
+
+``` 
+ddocker-compose exec jupyter bash
+
+``` 
