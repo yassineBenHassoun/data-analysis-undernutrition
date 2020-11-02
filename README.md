@@ -34,4 +34,7 @@ easy
 ``` 
 ddocker-compose exec jupyter bash
 
+
 ``` 
+
+## Tout le code source se trouve dans le dossier /lab
